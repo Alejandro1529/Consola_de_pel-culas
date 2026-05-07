@@ -4,7 +4,7 @@ de una plataforma de streaming. El usuario puede consultar la película más lar
 duración promedio, buscar estrenos, contar películas por clasificación, reagendar películas y 
 verificar si un invitado puede ver una película según su edad.
 
-##Integrantes:
+## Integrantes:
 
 Andrea Viviana Cubides Sarmiento,
 Laura Sofía Pineda Soste,
