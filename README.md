@@ -6,4 +6,4 @@ Integrantes:
 Andrea Viviana Cubides Sarmiento,
 Laura Sofía Pineda Soste,
 Alejandro Osorio Maldonado,
-David Alejandro 
+David Alejandro Rodriguez
