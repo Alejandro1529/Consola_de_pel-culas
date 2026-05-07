@@ -3,7 +3,7 @@ Proyecto basado en un código de python, el cuál muestra al usuario en la conso
 
 Integrantes:
 
-Andrea Viviana Cubides Sarmiento
-Laura Sofía Pineda Soste
-Alejandro Osorio Maldonado 
+Andrea Viviana Cubides Sarmiento,
+Laura Sofía Pineda Soste,
+Alejandro Osorio Maldonado,
 David Alejandro 
